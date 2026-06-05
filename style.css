@@ -238,7 +238,7 @@ section { position: relative; z-index: 1; }
 .for-who { padding: 7rem 0; }
 .fw-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(420px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
   margin-top: 3rem;
   border: 1px solid rgba(247,244,231,.08);
   border-radius: 18px; overflow: hidden;
